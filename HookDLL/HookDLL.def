@@ -1,0 +1,4 @@
+LIBRARY HookDLL
+EXPORTS
+	InstallKeyboardHook		@1
+	UninstallKeyboardHook	@2
